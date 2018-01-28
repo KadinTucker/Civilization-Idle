@@ -1,0 +1,12 @@
+{
+	"name": "civilization-idle",
+	"authors": [
+		"Kadin Tucker"
+	],
+	"dependencies": {
+		"d2d": "~>1.3.10"
+	},
+	"description": "An idle game based on building a civilization",
+	"copyright": "Copyright © 2018, Kadin Tucker",
+	"license": "proprietary"
+}
